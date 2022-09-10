@@ -1,0 +1,18 @@
+20220826	02:29:34	8dbd5c8f-513d-46ed-a5ae-845f56926aa3	undefined	undefined
+20220826	02:30:26	b9fa0faa-2ed1-4ff1-b899-10103c980e3d	TypeError	fsPromises.readFil is not a function
+20220827	01:00:35	208b148c-dcd5-437a-8153-eb0e84df82af	Error: Não permitido pelo CORS
+20220830	00:39:23	4dfe1564-9e36-4f52-a79c-41648a916920	Error: Cannot set headers after they are sent to the client
+20220830	00:40:02	b3689366-e5fc-4503-bb1c-9e343841b9ff	Error: Cannot set headers after they are sent to the client
+20220831	15:53:37	a7cf85e0-887e-4771-992b-e2dca9cad96a	SyntaxError: Unexpected token e in JSON at position 0
+20220831	15:54:29	214425f2-4d59-4ccb-8c42-31442b527393	SyntaxError: Unexpected token e in JSON at position 1
+20220831	15:56:25	0c907538-eb6f-4667-8e81-8d6a8e8dcc05	TypeError: Cannot read properties of undefined (reading 'username')
+20220901	23:32:46	a8305d53-86fa-484f-b0ea-3d8ada25b81f	TypeError: Cannot read properties of undefined (reading 'split')
+20220905	21:45:12	0ff1bdb8-d4c0-4dea-aa94-d7d688c70782	TypeError: Cannot read properties of undefined (reading 'username')
+20220905	22:35:26	b96c7af2-b0df-40e3-820b-6e9133769d1c	TypeError: Cannot read properties of undefined (reading 'username')
+20220905	22:36:01	2dedb413-4845-48b2-9001-6dd3ca775b2c	TypeError: Cannot read properties of undefined (reading 'username')
+20220905	22:36:20	f87a1943-fcb9-47f4-86a2-6b81cd6850fb	SyntaxError: Unexpected token e in JSON at position 1
+20220905	22:57:27	91bd65dd-5f08-4d7e-a39c-182a9ecd8824	Error: Cannot set headers after they are sent to the client
+20220905	22:59:18	a5f18a7b-810b-4f09-b8d2-94d7db275a50	Error: Cannot set headers after they are sent to the client
+20220909	01:35:22	4b23fbea-af40-4f73-923d-b5273f795ae3	TypeError: Cannot read properties of undefined (reading 'UserInfo')
+20220910	00:57:32	bc28c7e2-36c8-49b1-b436-153235bf5989	TypeError: Cannot read properties of undefined (reading 'UserInfo')
+20220910	01:20:40	cf7c1047-d7e7-4397-868e-53b224de2989	TypeError: Cannot read properties of undefined (reading 'UserInfo')
